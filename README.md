@@ -5,7 +5,7 @@
 This project provides SMS Messaging Campaigns for Fineract CN.
 
 ## Abstract
-Mifos I/O is an application framework for digital financial services, a system to support nationwide and cross-national financial transactions and help to level and speed the creation of an inclusive, interconnected digital economy for every nation in the world.
+Apache Fineract CN is an application framework for digital financial services, a system to support nationwide and cross-national financial transactions and help to level and speed the creation of an inclusive, interconnected digital economy for every nation in the world.
 
 ## Versioning
 The version numbers follow the [Semantic Versioning](http://semver.org/) scheme.
