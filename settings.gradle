@@ -1,0 +1,6 @@
+rootProject.name = 'fineract-cn-sms'
+
+includeBuild 'api'
+includeBuild 'service'
+includeBuild 'component-test'
+
